@@ -27,6 +27,7 @@ def codon_convert(codon):
 user_opt = input("Choose a method of input: \n 1. Text box \n 2. Import file \n ")
 protein = ""
 
+
 if user_opt == '1':
     inp = input("Enter RNA string strand: ")
 
