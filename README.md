@@ -6,5 +6,5 @@ There exists 20 commonly occurring amino acids, and they are denoted by 20 lette
 
 ![RNA Codon Table to transcribe mRNA string to amino acids](/imgs/img-1.png)
 
-RNA Codon Table *Image from https://rosalind.info/problems/prot/*
+RNA Codon Table (*Image from https://rosalind.info/problems/prot/*)
 
